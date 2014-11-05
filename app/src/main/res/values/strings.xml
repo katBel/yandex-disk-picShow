@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PicShow</string>
+    <string name="start_show">Start</string>
+    <string name="set_interval">Settings</string>
+    <string name="auth_title">Auth</string>
+    <string name="auth_message">Start browser to authorize?</string>
+    <string name="auth_positive_button">OK</string>
+    <string name="auth_negative_button">Exit</string>
+    <string name="no_images">No images</string>
+    <string name="interval_title">Interval of flipping</string>
+    <string name="interval_message">Set interval of flipping in seconds.</string>
+    <string name="interval_positive_button">OK</string>
+    <string name="interval_negative_button">Cancel</string>
+    <string name="interval_invalid">Incorrect format</string>
+    <string name="account_title">Choose account</string>
+    <string name="account_positive_button">OK</string>
+    <string name="account_negative_button">Cancel</string>
+</resources>
